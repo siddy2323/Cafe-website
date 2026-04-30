@@ -1,0 +1,4 @@
+/* Import all cafe website CSS */
+@import './assets/css/style.css';
+@import './assets/css/animations.css';
+@import './assets/css/pages.css';
